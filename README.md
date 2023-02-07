@@ -1,2 +1,3 @@
 # -System-Analysis-and-Design-in-Applications
 This project focuses on the challenges and methods involved in the creation of software systems
+This GitHub repository showcases my focus on building a central university application to streamline various tasks for students, including course registration, grades, professor information, lecture schedules, events, and more. This project addresses the challenges of software design and construction by incorporating best practices such as requirements gathering, prototyping, object-oriented analysis and design, standards, risk management, testing, and debugging. My aim was developing a robust and efficient system to simplify university operations.
